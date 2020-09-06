@@ -1,1 +1,1 @@
-# Python-SDK-for-rabbitmq-management-api
+# rabbitmq-python-client
